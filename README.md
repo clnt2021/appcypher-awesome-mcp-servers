@@ -346,6 +346,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://raw.githubusercontent.com/IMBAwallet/agent-mcp/main/assets/logo.png" alt="IMBA Logo" height="14"/> [IMBA Agent MCP](https://github.com/IMBAwallet/agent-mcp) - Official prepaid IMBA Agent MCP: docs (policy/HowTo, no money) plus spend (USDT TRC-20 deposit, Visa prepaid, eSIM, gift cards) with the operator Ed25519 key. No withdraw.
 
 <br />
 
